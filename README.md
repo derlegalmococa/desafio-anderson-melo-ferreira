@@ -21,7 +21,7 @@ Recursos: O Projeto utiliza recursos de HTML, CSS e JavaScript com suporte a DOM
 
 Arquivos do Projeto: 
 
-•	App.js -> Arquivo de regras do Negócio composto por JavaScript;
-•	Index.html-> Arquivo de interação e utilização do Usuário (Front end); 
-•	Style.css -> Arquivo de formatação de objetos HTML;
+•	App.js -> Arquivo de regras do Negócio composto por JavaScript;</br>
+•	Index.html-> Arquivo de interação e utilização do Usuário (Front end); </br>
+•	Style.css -> Arquivo de formatação de objetos HTML;</br>
 Desenvolvido no dia 04/03/2025 por Anderson Rogério de Melo Ferreira.
