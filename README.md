@@ -2,7 +2,7 @@
 Desafio Amigo Secreto</br>
 Autor: Anderson Rogerio de Melo Ferreira
 
-Objetivo: Permitir o cadastro de diversos nomes e posteriormente, realizar a seleção de um nome na lista criada de forma randômica.
+Objetivo: Permitir o cadastro de diversos nomes e posteriormente, realizar a seleção de um nome na lista criada de forma randômica.</br>
  ![image](https://github.com/user-attachments/assets/6e6c57e4-4a9d-45c8-94c5-74dd56a2042b)
 
 
